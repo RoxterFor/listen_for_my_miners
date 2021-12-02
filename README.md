@@ -1,3 +1,5 @@
+Please add me as a Agent Developer [Published] on Discord, my discord username is rockstar#1635
+
 # My Miners Tracker
 
 Tracking miners from myMiners.json
